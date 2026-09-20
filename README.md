@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="orbit.svg" width="640" alt="Sanskar, orbited by football, cricket and travel" />
+<video src="hero.mp4" poster="hero_poster.jpg" width="100%" autoplay loop muted playsinline>Your browser is invited to imagine the cosmos here.</video>
+
+*Footage: Zelch Csaba / Pexels · face fused with ffmpeg*
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=22&duration=3200&pause=1500&color=D9A441&center=true&vCenter=true&width=600&lines=I+design+experiences%2C+not+just+websites.;Perfection-driven.+Detail-obsessed.+Built+to+lead.;Living+free.+Thinking+less.+Enjoying+more." alt="typing lines" /></a>
 

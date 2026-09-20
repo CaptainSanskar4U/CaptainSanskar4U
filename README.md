@@ -1,45 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-Hi, I'm Sanskar 👋
-19 | Artist focused on perfection
-I deliver sharp, on-point results and take ownership of every project.
-Strong leadership mindset, always ready for the next challenge.
+<img src="https://komarev.com/ghpvc/?username=CaptainSanskar4U&label=wanderers+passing+by&color=D9A441&style=flat" alt="profile views" />
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=27&duration=3200&pause=1400&color=D9A441&center=true&vCenter=true&width=620&lines=Sanskar+%E2%80%A2+I+come+in+hearts%2C+not+minds;I+design+experiences%2C+not+just+websites;Living+free.+Thinking+less.+Enjoying+more." alt="typing greeting" /></a>
 
-I design experiences, not just websites—blending UI/UX expertise with a deep understanding of human psychology.
-Known for crafting clean, high-impact designs that are both visually sharp and user-focused.
+*19 · artist focused on perfection · UI/UX with a feel for human psychology*
 
-🚀 Skilled in leveraging AI tools like ChatGPT, Claude, Gemini, and more to build faster, smarter, and better.
-💻 Capable of developing full-stack web applications with precision and performance in mind.
-⚡ Always learning—exploring Python and C to expand my technical depth.
+**Perfection-driven. Detail-obsessed. Built to lead.**
 
-Perfection-driven. Detail-obsessed. Built to lead.
+🌾
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</div>
 
-🌟 About Me
+> I stay calm and don't overthink life.
+> Simple. Positive. Stress-free.
+> *— my whole philosophy, in three words*
 
-I’m a free-spirited person who believes in staying calm and not overthinking life.
-I enjoy keeping things simple, positive, and stress-free.
+---
 
-⚽ Love playing football
-🏏 Enjoy cricket
-✈️ Passionate about traveling and exploring new places
+### The piece I'm proudest of
 
-Living free. Thinking less. Enjoying more.
+**STOCKPROOF — is the grain *really* there?** 🌾
 
-<!--
-**CaptainSanskar4U/CaptainSanskar4U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Farmers borrow against grain sleeping in warehouses. Sometimes the paper says
+100 tonnes and the heap is smaller. STOCKPROOF checks a phone photo of the heap
+against the paper receipt — *before the bank lends*.
 
-Here are some ideas to get you started:
+*Geometry in, defensible range out. Never false precision.*
+It supports the auditor — it never replaces the walk to the pile itself.
+No model can smell fermentation or feel gravel under a tarp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`React 19` · `Vite` · `Tailwind` · `Express` · `Redis` · `Kharif / Rabi / Zaid curves`
+
+<a href="https://github.com/CaptainSanskar4U/StockProof-Warehouse-Aduit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSanskar4U&repo=StockProof-Warehouse-Aduit&title_color=D9A441&text_color=F3EFE7&icon_color=D9A441&bg_color=141210&border_color=2A2622" alt="STOCKPROOF repo" /></a>
+
+---
+
+### Small things, made with love
+
+| | |
+|---|---|
+| 🎂 **Happy4U** | A birthday reminder app with a premium heart — because no one should be forgotten. |
+| 🚗 **Navi-Ride** | A premium car-rental site. Smooth roads, smoother interface. |
+| 🛡️ **GigShield** | Safety rails for gig workers — born at the Smart India Hackathon. |
+
+<a href="https://github.com/CaptainSanskar4U/Happy4U"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSanskar4U&repo=Happy4U&title_color=D9A441&text_color=F3EFE7&icon_color=D9A441&bg_color=141210&border_color=2A2622" alt="Happy4U repo" /></a>
+<a href="https://github.com/CaptainSanskar4U/Navi-Ride---A-Premium-Car-Rental-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSanskar4U&repo=Navi-Ride---A-Premium-Car-Rental-Website&title_color=D9A441&text_color=F3EFE7&icon_color=D9A441&bg_color=141210&border_color=2A2622" alt="Navi-Ride repo" /></a>
+
+---
+
+### Off the keyboard
+
+| ⚽ Football | Chasing the ball till the streetlights come on. |
+|---|---|
+| 🏏 Cricket | Gully matches count as cardio and character-building. |
+| ✈️ Travelling | New places, strange food, long train windows. |
+
+🌱 Currently steeping in **Python** and **C** — slow-brewing the fundamentals.
+
+🤖 I build *with* AI — ChatGPT, Claude, Gemini at my side — faster, smarter, better. The taste stays mine.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CaptainSanskar4U&show_icons=true&title_color=D9A441&text_color=F3EFE7&icon_color=D9A441&bg_color=141210&border_color=2A2622" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=CaptainSanskar4U&background=141210&ring=D9A441&fire=D9A441&currStreakLabel=F3EFE7&sideNums=F3EFE7&dates=9C9388&border=2A2622" alt="GitHub streak" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainSanskar4U&layout=compact&title_color=D9A441&text_color=F3EFE7&bg_color=141210&border_color=2A2622" alt="Top languages" />
+
+*Have something worth crafting? Let's build it beautifully together.* 🧸
+
+</div>

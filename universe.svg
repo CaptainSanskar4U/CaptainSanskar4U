@@ -73,11 +73,18 @@
   <!-- wanderer: the plane, opposite sky — glides upright, never tumbles -->
   <g>
     <animateTransform attributeName="transform" type="rotate" from="140 320 265" to="500 320 265" dur="26s" repeatCount="indefinite"/>
+    <ellipse cx="320" cy="265" rx="210" ry="140" fill="none" stroke="#D9A441" stroke-opacity="0.3" stroke-width="1" stroke-dasharray="2 8"/>
     <path d="M129.7,324.2 A210,140 0 0 1 110,265" fill="none" stroke="#D9A441" stroke-opacity="0.4" stroke-width="2.5" stroke-dasharray="2 7" stroke-linecap="round"/>
     <g>
       <animateTransform attributeName="transform" type="rotate" from="-140 110 264" to="-500 110 264" dur="26s" repeatCount="indefinite"/>
       <text x="110" y="273" font-size="27" text-anchor="middle">✈️</text>
     </g>
+  </g>
+
+  <!-- a whisper of a third road: pure depth, no traveler -->
+  <g opacity="0.5">
+    <animateTransform attributeName="transform" type="rotate" from="0 320 265" to="360 320 265" dur="90s" repeatCount="indefinite"/>
+    <ellipse cx="320" cy="265" rx="283" ry="195" fill="none" stroke="#D9A441" stroke-opacity="0.16" stroke-width="1" stroke-dasharray="1 10"/>
   </g>
 
   <!-- outer orbit: cricket, slow and rooted -->

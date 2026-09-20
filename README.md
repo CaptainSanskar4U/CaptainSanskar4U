@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="hero.gif" width="100%" alt="Sanskar's portrait fused over a golden solar system" />
-
-*Footage: Oleg Gamulinskii / Pexels · portrait seated with ffmpeg*
+<img src="universe.svg" width="640" alt="Sanskar's little universe" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=22&duration=3200&pause=1500&color=D9A441&center=true&vCenter=true&width=600&lines=I+design+experiences%2C+not+just+websites.;Perfection-driven.+Detail-obsessed.+Built+to+lead.;Living+free.+Thinking+less.+Enjoying+more." alt="typing lines" /></a>
 

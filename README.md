@@ -8,31 +8,13 @@
 
 **Perfection-driven. Detail-obsessed. Built to lead.**
 
-🌾
+✦
 
 </div>
 
 > I stay calm and don't overthink life.
 > Simple. Positive. Stress-free.
 > *— my whole philosophy, in three words*
-
----
-
-### The piece I'm proudest of
-
-**STOCKPROOF — is the grain *really* there?** 🌾
-
-Farmers borrow against grain sleeping in warehouses. Sometimes the paper says
-100 tonnes and the heap is smaller. STOCKPROOF checks a phone photo of the heap
-against the paper receipt — *before the bank lends*.
-
-*Geometry in, defensible range out. Never false precision.*
-It supports the auditor — it never replaces the walk to the pile itself.
-No model can smell fermentation or feel gravel under a tarp.
-
-`React 19` · `Vite` · `Tailwind` · `Express` · `Redis` · `Kharif / Rabi / Zaid curves`
-
-<a href="https://github.com/CaptainSanskar4U/StockProof-Warehouse-Aduit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CaptainSanskar4U&repo=StockProof-Warehouse-Aduit&title_color=D9A441&text_color=F3EFE7&icon_color=D9A441&bg_color=141210&border_color=2A2622" alt="STOCKPROOF repo" /></a>
 
 ---
 

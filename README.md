@@ -1,31 +1,62 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CaptainSanskar4U&label=wanderers+passing+by&color=D9A441&style=flat" alt="profile views" />
+<img src="orbit.svg" width="640" alt="Sanskar, orbited by football, cricket and travel" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=27&duration=3200&pause=1400&color=D9A441&center=true&vCenter=true&width=620&lines=Sanskar+%E2%80%A2+I+come+in+hearts%2C+not+minds;I+design+experiences%2C+not+just+websites;Living+free.+Thinking+less.+Enjoying+more." alt="typing greeting" /></a>
-
-*19 · artist focused on perfection · UI/UX with a feel for human psychology*
-
-**Perfection-driven. Detail-obsessed. Built to lead.**
-
-✦
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=22&duration=3200&pause=1500&color=D9A441&center=true&vCenter=true&width=600&lines=I+design+experiences%2C+not+just+websites.;Perfection-driven.+Detail-obsessed.+Built+to+lead.;Living+free.+Thinking+less.+Enjoying+more." alt="typing lines" /></a>
 
 </div>
 
-> I stay calm and don't overthink life.
-> Simple. Positive. Stress-free.
-> *— my whole philosophy, in three words*
+<div align="center">─── ✦ ───</div>
 
----
+## Hi there 👋
 
-### Off the keyboard
+Hi, I'm Sanskar 👋
+19 | Artist focused on perfection
+I deliver sharp, on-point results and take ownership of every project.
+Strong leadership mindset, always ready for the next challenge.
 
-| ⚽ Football | Chasing the ball till the streetlights come on. |
-|---|---|
-| 🏏 Cricket | Gully matches count as cardio and character-building. |
-| ✈️ Travelling | New places, strange food, long train windows. |
+<div align="center">─── ✦ ───</div>
 
----
+> I design experiences, not just websites—blending UI/UX expertise with a deep understanding of human psychology.
+> Known for crafting clean, high-impact designs that are both visually sharp and user-focused.
+
+🚀 Skilled in leveraging AI tools like ChatGPT, Claude, Gemini, and more to build faster, smarter, and better.
+💻 Capable of developing full-stack web applications with precision and performance in mind.
+⚡ Always learning—exploring Python and C to expand my technical depth.
+
+<div align="center">
+
+**Perfection-driven. Detail-obsessed. Built to lead.**
+
+</div>
+
+<div align="center">─── ✦ ───</div>
+
+### 🌟 About Me
+
+I’m a free-spirited person who believes in staying calm and not overthinking life.
+I enjoy keeping things simple, positive, and stress-free.
+
+⚽ Love playing football
+🏏 Enjoy cricket
+✈️ Passionate about traveling and exploring new places
+
+<div align="center">
+
+*Living free. Thinking less. Enjoying more.*
+
+</div>
+
+<div align="center">─── ✦ ───</div>
+
+<details>
+<summary><i>psst… open if you're curious</i></summary>
+
+<br />
+
+Me dil me aata hu, dimag me nahi. — if you know, you know. 🌙
+
+</details>
 
 <div align="center">
 

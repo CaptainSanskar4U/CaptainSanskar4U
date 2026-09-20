@@ -1,6 +1,6 @@
 <div align="center">
 
-<video src="hero.mp4" poster="hero_poster.jpg" width="100%" autoplay loop muted playsinline>Your browser is invited to imagine the cosmos here.</video>
+<img src="hero.gif" width="100%" alt="Sanskar's portrait fused over a golden solar system" />
 
 *Footage: Zelch Csaba / Pexels · face fused with ffmpeg*
 
